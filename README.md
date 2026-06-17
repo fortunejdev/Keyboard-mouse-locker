@@ -15,5 +15,4 @@ Requirements
 
 - Windows
 - Python 3.8+
-- 
 python keyboard_mouse_lock.py
